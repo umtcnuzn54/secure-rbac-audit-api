@@ -3,4 +3,3 @@
 GET {{SecureApi_HostAddress}}/weatherforecast/
 Accept: application/json
 
-###
